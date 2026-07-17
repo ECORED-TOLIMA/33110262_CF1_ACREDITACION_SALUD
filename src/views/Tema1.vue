@@ -6,14 +6,20 @@
       .titulo-principal__numero
         span 1
       h1 Normatividad de la acreditación en salud
+
     p.mb-4 La normatividad constituye el conjunto de disposiciones jurídicas que orientan la organización, el funcionamiento y el mejoramiento de los servicios de salud. En el contexto de la acreditación en salud, estas normas establecen los principios, criterios y lineamientos que deben vigilar las instituciones para fortalecer la calidad de la atención, promover la seguridad del paciente y garantizar el cumplimiento de las políticas definidas para el sector.
-    
+    .bloque-texto-g.bg2.p-3.p-sm-4.p-md-5.mb-4
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${img1})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 En Colombia, el proceso de acreditación se desarrolla dentro de un marco normativo que articula diferentes disposiciones relacionadas con la gestión de la calidad, la evaluación institucional y el mejoramiento continuo. Estas normas proporcionan las bases para la implementación de procesos estandarizados que permiten valorar el desempeño de las instituciones prestadoras de servicios de salud y orientar la adopción de acciones encaminadas al fortalecimiento de sus capacidades organizacionales.
     .row.justify-content-center.mb-4
       .col-lg-auto
         img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imagen ilustrativa')
       .col-lg-10
         .p-4.bg1
-          p.mb-0 El conocimiento de este marco normativo facilita la comprensión de la estructura del Sistema Único de Acreditación en Salud (SUA), así como de los criterios y estándares que orientan los procesos de evaluación. Además, favorece la apropiación de buenas prácticas institucionales y el desarrollo de una cultura organizacional enfocada en la calidad, la transparencia y el mejoramiento continuo.
+          p El conocimiento de este marco normativo facilita la comprensión de la estructura del Sistema Único de Acreditación en Salud (SUA), así como de los criterios y estándares que orientan los procesos de evaluación. Además, favorece la apropiación de buenas prácticas institucionales y el desarrollo de una cultura organizacional enfocada en la calidad, la transparencia y el mejoramiento continuo.
     p.mb-0 En este contexto, resulta necesario conocer las principales disposiciones que sustentan la acreditación en salud y su aplicación en las instituciones del sector.
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -84,15 +90,15 @@
     .row.justify-content-center.mb-4
       .col-lg-5
          LineaTiempoD.color-acento-botones.especial
-          p(numero="1" titulo="Constitución Política de Colombia de 1991")
+          p.text-small(numero="1" titulo="Constitución Política de Colombia de 1991")
             | Reconoce la salud como un derecho fundamental y establece la responsabilidad del Estado de garantizar su protección y acceso en condiciones de calidad, oportunidad y continuidad.
-          p(numero="2" titulo="Ley 100 de 1993")
+          p.text-small(numero="2" titulo="Ley 100 de 1993")
             | Organiza el Sistema General de Seguridad Social en Salud y establece las bases para el desarrollo de mecanismos orientados al aseguramiento y mejoramiento de la calidad en la prestación de los servicios.
-          p(numero="3" titulo="Ley 1751 de 2015 (Ley Estatutaria de Salud)")
+          p.text-small(numero="3" titulo="Ley 1751 de 2015 (Ley Estatutaria de Salud)")
             | Regula el derecho fundamental a la salud y define principios como la disponibilidad, accesibilidad, aceptabilidad y calidad de los servicios, fortaleciendo la atención centrada en las personas.
-          p(numero="4" titulo="Decreto 780 de 2016")
+          p.text-small(numero="4" titulo="Decreto 780 de 2016")
             | Compila la reglamentación del sector salud y reúne las disposiciones relacionadas con el Sistema Obligatorio de Garantía de la Calidad (SOGC) y el Sistema Único de Acreditación en Salud (SUA).
-          p(numero="5" titulo="Resolución 5095 de 2018")
+          p.text-small(numero="5" titulo="Resolución 5095 de 2018")
             | Adopta el Manual de Acreditación en Salud Ambulatorio y Hospitalario de Colombia, el cual establece los estándares utilizados para evaluar el desempeño de las instituciones prestadoras de servicios de salud.
       .col-lg-5
         img(src='@/assets/curso/temas/tema1/img7.png', alt='')
@@ -100,13 +106,14 @@
     .row.justify-content-center
       .col-lg-10
         .cajon.color-secundario.p-4
-          p.mb-0 En consecuencia, conocer y aplicar estas disposiciones fortalece la gestión institucional y favorece el desarrollo de procesos orientados a la calidad, la seguridad del paciente y el mejoramiento continuo, en concordancia con los lineamientos establecidos para el sector salud.
+          p En consecuencia, conocer y aplicar estas disposiciones fortalece la gestión institucional y favorece el desarrollo de procesos orientados a la calidad, la seguridad del paciente y el mejoramiento continuo, en concordancia con los lineamientos establecidos para el sector salud.
+
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.3 Importancia del cumplimiento normativo
     .bloque-texto-g.bloque-texto-g--inverso.bg2.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img8.png')})`}"
+        :style="{'background-image': `url(${img8})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 El cumplimiento de la normatividad constituye un elemento esencial para garantizar la calidad, la seguridad y la eficiencia en la prestación de los servicios de salud. La aplicación de las disposiciones legales permite a las instituciones desarrollar sus actividades conforme a los lineamientos establecidos por las autoridades competentes, fortaleciendo la confianza de los usuarios y promoviendo una atención centrada en sus necesidades.
@@ -117,17 +124,74 @@
           .bloque-texto-gg__texto.p-4
             p Además de responder a las exigencias legales, el cumplimiento de la normatividad contribuye al fortalecimiento de la cultura organizacional, promoviendo la participación del talento humano, la mejora de los procesos institucionales y la toma de decisiones fundamentadas en criterios de calidad. Esto favorece la identificación de oportunidades de mejora y la implementación de acciones orientadas a incrementar el desempeño institucional.
           .bloque-texto-gg__img(
-          :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img9.svg')})`}"
+          :style="{'background-image': `url(${img9})`}"
           )
     p Entre los principales beneficios del cumplimiento normativo en las instituciones de salud se destacan:
+    .BG01.p-4.px-4.mb-4
+      .row.justify-content-center
+        .col-lg-4
+          figure(data-aos="zoom-in")
+            img(src="@/assets/curso/temas/tema1/img10.png", alt="alt").img400.m-auto
+        .col-lg-8
+          SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-4")
+            .tarjeta.bg4.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src="@/assets/curso/temas/tema1/img11.svg", alt="alt").img100.m-auto
+              p.text-center.mb-0 Garantizar la prestación de servicios conforme a la legislación vigente.
+            .tarjeta.bg4.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src="@/assets/curso/temas/tema1/img12.svg", alt="alt").img100.m-auto
+              p.text-center.mb-0 Fortalecer la seguridad del paciente y la calidad de la atención.
+            .tarjeta.bg4.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src="@/assets/curso/temas/tema1/img13.svg", alt="alt").img100.m-auto
+              p.text-center.mb-0 Favorecer el cumplimiento de los estándares de acreditación en salud.
+            .tarjeta.bg4.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src="@/assets/curso/temas/tema1/img14.svg", alt="alt").img100.m-auto
+              p.text-center.mb-0 Promover la gestión del riesgo y el mejoramiento continuo de los procesos.
+            .tarjeta.bg4.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src="@/assets/curso/temas/tema1/img15.svg", alt="alt").img100.m-auto
+              p.text-center.mb-0 Incrementar la confianza de los usuarios y demás grupos de interés.
+            .tarjeta.bg4.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src="@/assets/curso/temas/tema1/img16.svg", alt="alt").img100.m-auto
+              p.text-center.mb-0 Fortalecer la toma de decisiones basada en criterios técnicos y normativos.
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 1.
+          span Beneficios del cumplimiento normativo en las instituciones de salud
+        .d-none.d-lg-block.mb-4
+          ImagenInfografica.color-acento-botones
+            template(v-slot:imagen)
+              figure
+                img(src='@/assets/curso/temas/tema1/img17.svg', alt='Figura 2. Proceso formativo para la participación social en salud. Pirámide que representa el proceso formativo para la participación social. Incluye cuatro niveles: información básica sobre derechos en salud, comprensión del sistema de salud, desarrollo de liderazgo comunitario e incidencia en decisiones públicas.')
+        .d-block.d-lg-none
+          figure
+            img(src='@/assets/curso/temas/tema1/img17_1.svg', alt='Figura 2. Proceso formativo para la participación social en salud. Pirámide que representa el proceso formativo para la participación social. Incluye cuatro niveles: información básica sobre derechos en salud, comprensión del sistema de salud, desarrollo de liderazgo comunitario e incidencia en decisiones públicas.')
     
+    p El cumplimiento de la normatividad no debe entenderse únicamente como una obligación legal, sino como una oportunidad para fortalecer la gestión institucional y consolidar una cultura de calidad orientada al mejoramiento continuo. De esta manera, las instituciones desarrollan procesos más seguros, eficientes y transparentes, contribuyendo al fortalecimiento del sistema de salud y al bienestar de la población.
 </template>
 
 <script>
+import img1 from '@/assets/curso/temas/tema1/img1.png'
+import img8 from '@/assets/curso/temas/tema1/img8.png'
+import img9 from '@/assets/curso/temas/tema1/img9.svg'
+
 export default {
   name: 'Tema1',
   data: () => ({
-    // variables de vue
+    img1,
+    img8,
+    img9,
   }),
   mounted() {
     this.$nextTick(() => {

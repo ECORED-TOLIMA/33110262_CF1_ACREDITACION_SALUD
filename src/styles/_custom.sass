@@ -92,6 +92,30 @@ figcaption
   .mb-cus
     margin-bottom: 2em  !important
 
+
+.linea-tiempo-d.color-primario
+  // --- ELEMENTOS GENERALES / NO SELECCIONADOS ---
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #F8CECE !important
+    
+  .linea-tiempo-d__item__content__title
+    span
+      color: #000 !important
+
+  .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+    background-color: #F8CECE !important
+    span
+      color: #000 !important
+
+  // --- ELEMENTO SELECCIONADO (ACTIVO) ---
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #D4FDF2 !important
+      
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #A82909 !important
+      span
+        color: #FFF !important
   
 .cajon.color-primario
   background-color: #D4FDF2
@@ -100,3 +124,127 @@ figcaption
 
 .bg1
   background-color: #FDFFBD
+.bg2
+  background-color: #217365
+.bg3
+  background-color: #D4FDF2
+.bg4
+  background-color: #88FEDE
+.bg5
+  background-color: #F8CECE
+
+//BLOQUE TEXTO G
+.bloque-texto-ggg-imagen.color-primario
+  background-color: #D5F4F8
+.bloque-texto-gg.color-primario
+  background-color: #D5F4F8
+.bloque-texto-gg__img 
+  width: 25%
+  position: absolute
+  top: 0
+  left: 0
+  bottom: 0
+  background-position: center
+  background-size: cover
+
+.bloque-texto-gg__img2
+  width: 35%
+  position: absolute
+  top: 0
+  left: 0
+  bottom: 0
+  background-position: center
+  background-size: cover
+
+.bloque-texto-gg
+  position: relative
+  display: flex
+  justify-content: flex-end
+
+.bloque-texto-gg__texto
+  position: relative
+  width: 75%
+.bloque-texto-gg__texto2
+  position: relative
+  width: 65%
+  
+.bloque-texto-gg--inverso
+  justify-content: flex-start
+
+.bloque-texto-gg-imagen 
+  .bloque-texto-gg__img
+    width: 36%
+  
+  .bloque-texto-gg__texto
+    width: 60%
+
+.bloque-texto-gg
+  @media (max-width: $bp-max-md)
+    padding-top: 40% !important
+    &__img
+      width: 100% !important
+      height: 50%
+    &__texto
+      margin-top: 40px !important
+      width: 100% !important
+    &__img1
+      width: 100% !important
+      height: 50%
+    &__img2
+      width: 25% !important
+      height: 25%
+    &__texto1
+      margin-top: 40px !important
+      width: 100% !important
+    &__texto2
+      margin-top: 0px !important
+      width: 74% !important
+
+  @media (max-width: $bp-max-xs)
+    padding-top: 200px !important
+    &__img
+      height: 250px
+    &__img1
+      height: 250px
+    
+
+.bloque-texto-ggg
+  position: relative
+  display: flex
+  justify-content: flex-end
+
+.bloque-texto-ggg__texto
+  position: relative
+  width: 66%
+  
+
+.bloque-texto-gg--inverso 
+  .bloque-texto-gg__img
+    left: auto
+    right: 0
+.bloque-texto-gg__img1 
+  width: 50%
+  position: absolute
+  top: 0
+  left: 0
+  bottom: 0
+  background-position: center
+  background-size: cover
+.bloque-texto-gg__texto1
+  position: relative
+  width: 50%
+
+.BG01
+  background-image: url("../assets/curso/temas/bg/imgfondo1.png")
+  background-repeat: no-repeat
+  background-position: center 100%
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+.BG02
+  background-image: url("../assets/curso/temas/bg/imgfondo3.png")
+  background-repeat: no-repeat
+  background-position: center 100%
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
