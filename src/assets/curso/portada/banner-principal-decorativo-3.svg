@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="511.938" height="474.934" viewBox="0 0 511.938 474.934">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_457242" data-name="Rectangle 457242" width="271.247" height="262.601" fill="#7b1a8a"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_458826" data-name="Rectangle 458826" width="315.585" height="309.289" fill="#7b1a8a"/>
+    </clipPath>
+    <filter id="Ellipse_13830" x="22.938" y="6.934" width="457" height="468" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="banner-principal-decorativo-3" transform="translate(-858.062 -184.066)">
+    <g id="Group_1182773" data-name="Group 1182773" transform="translate(1129.309 659) rotate(180)">
+      <g id="Group_1182771" data-name="Group 1182771" clip-path="url(#clip-path)">
+        <path id="Path_1004427" data-name="Path 1004427" d="M111.737,174.215c0,48.815,33.28,88.386,74.333,88.386s85.177-37.932,85.177-86.747S262.486,82.09,206.629,40.417C97.169-41.249-20.087,24.057,2.917,36.379c119.38,63.943,108.82,115.8,108.82,137.836" transform="translate(0 0)" fill="#7b1a8a"/>
+      </g>
+    </g>
+    <g id="Group_1183606" data-name="Group 1183606" transform="translate(1054.415 184.066)" clip-path="url(#clip-path-2)">
+      <path id="Path_1004432" data-name="Path 1004432" d="M130,205.189c0,57.493,38.72,104.1,86.483,104.1s99.1-44.676,99.1-102.17S305.391,96.685,240.4,47.6C113.052-48.582-23.371,28.334,3.394,42.847,142.288,118.158,130,179.233,130,205.189" transform="translate(0 0)" fill="#7b1a8a"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 858.06, 184.07)" filter="url(#Ellipse_13830)">
+      <ellipse id="Ellipse_13830-2" data-name="Ellipse 13830" cx="219.5" cy="225" rx="219.5" ry="225" transform="translate(31.94 12.93)" fill="#f29dfc"/>
+    </g>
+  </g>
+</svg>

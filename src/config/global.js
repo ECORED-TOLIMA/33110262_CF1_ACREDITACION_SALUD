@@ -313,9 +313,9 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '---',
+          nombre: 'Diana Rocío Possos Beltrán',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -325,12 +325,12 @@ export default {
         {
           nombre: 'Laura Briguitte Perea Possos',
           cargo: 'Experta temática',
-          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Viviana Herrera Quiñonez',
           cargo: 'Evaluadora instruccional',
-          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -338,19 +338,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Jose Yobani Penagos Mora ',
           cargo: 'Diseñador de contenidos',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: ' ',
+          nombre: 'Veimar Celis Meléndez',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: ' ',
+          nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -358,14 +358,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'María Fernanda Pineda Mora',
           cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: ' ',
+          nombre: 'Jorge Bustos Gómez',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
