@@ -87,19 +87,19 @@
           
     p.mb-4 Las principales disposiciones que orientan la organización del sistema de salud y los procesos de acreditación en Colombia son las siguientes:
     .row.justify-content-center.mb-4
-      .col-lg-5.order-2.order-lg-1
+      .col-lg-6.order-2.order-lg-1
          LineaTiempoD.color-acento-botones.especial
-          p(numero="1" titulo="Constitución Política de Colombia de 1991")
+          p.mb-0(numero="1" titulo="Constitución Política de Colombia de 1991")
             | Reconoce la salud como un derecho fundamental y establece la responsabilidad del Estado de garantizar su protección y acceso en condiciones de calidad, oportunidad y continuidad.
-          p(numero="2" titulo="Ley 100 de 1993")
+          p.mb-0(numero="2" titulo="Ley 100 de 1993")
             | Organiza el Sistema General de Seguridad Social en Salud y establece las bases para el desarrollo de mecanismos orientados al aseguramiento y mejoramiento de la calidad en la prestación de los servicios.
-          p(numero="3" titulo="Ley 1751 de 2015 (Ley Estatutaria de Salud)")
+          p.mb-0(numero="3" titulo="Ley 1751 de 2015 (Ley Estatutaria de Salud)")
             | Regula el derecho fundamental a la salud y define principios como la disponibilidad, accesibilidad, aceptabilidad y calidad de los servicios, fortaleciendo la atención centrada en las personas.
-          p(numero="4" titulo="Decreto 780 de 2016")
+          p.mb-0(numero="4" titulo="Decreto 780 de 2016")
             | Compila la reglamentación del sector salud y reúne las disposiciones relacionadas con el Sistema Obligatorio de Garantía de la Calidad (SOGC) y el Sistema Único de Acreditación en Salud (SUA).
-          p(numero="5" titulo="Resolución 5095 de 2018")
+          p.mb-0(numero="5" titulo="Resolución 5095 de 2018")
             | Adopta el Manual de Acreditación en Salud Ambulatorio y Hospitalario de Colombia, el cual establece los estándares utilizados para evaluar el desempeño de las instituciones prestadoras de servicios de salud.
-      .col-lg-5.col-8.mb-4.mb-lg-0.order-1.order-lg-2
+      .col-lg-6.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         img(src='@/assets/curso/temas/tema1/img7.png', alt='')
     p.mb-4 Estas disposiciones conforman un marco jurídico que orienta la organización, la evaluación y el mejoramiento continuo de los servicios de salud. Su aplicación favorece el fortalecimiento de la calidad institucional y contribuye al cumplimiento de los estándares establecidos para los procesos de acreditación.
     .row.justify-content-center

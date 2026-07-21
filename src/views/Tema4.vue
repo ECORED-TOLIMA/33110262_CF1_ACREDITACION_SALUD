@@ -282,7 +282,7 @@
                   img(src="@/assets/curso/temas/tema4/img28-2.svg", alt="alt").img100.m-auto
               p.text-center.mb-0 Registros e informes de evaluación.
             
-    p.mb-0 La aplicación adecuada de estas herramientas permite a las instituciones realizar un seguimiento permanente a sus procesos, identificar fortalezas y oportunidades de mejora, y demostrar el cumplimiento de los estándares de acreditación mediante evidencias objetivas y verificables.
+    p.mb-4 La aplicación adecuada de estas herramientas permite a las instituciones realizar un seguimiento permanente a sus procesos, identificar fortalezas y oportunidades de mejora, y demostrar el cumplimiento de los estándares de acreditación mediante evidencias objetivas y verificables.
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
         .titulo-sexto.color-acento-contenido

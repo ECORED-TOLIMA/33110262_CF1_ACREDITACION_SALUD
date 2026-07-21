@@ -19,13 +19,13 @@
     .row.justify-content-center.mb-4
       .col-lg-6.order-2.order-lg-1
          LineaTiempoD.color-acento-botones.especial
-          p(numero="1" titulo="Normalización")
+          p.mb-0(numero="1" titulo="Normalización")
             | Establece normas técnicas y lineamientos que orientan el desarrollo de productos, procesos y servicios.
-          p(numero="2" titulo="Evaluación de la conformidad")
+          p.mb-0(numero="2" titulo="Evaluación de la conformidad")
             | Verifica el cumplimiento de los requisitos establecidos en normas o reglamentos técnicos mediante actividades de inspección, ensayo, certificación y auditoría.
-          p(numero="3" titulo="Acreditación")
+          p.mb-0(numero="3" titulo="Acreditación")
             | Reconoce la competencia técnica de los organismos que realizan actividades de evaluación de la conformidad, garantizando la confiabilidad de sus resultados.
-          p(numero="4" titulo="Metrología")
+          p.mb-0(numero="4" titulo="Metrología")
             | Asegura la confiabilidad y exactitud de las mediciones mediante patrones, métodos e instrumentos adecuados.
       .col-lg-6.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         img(src='@/assets/curso/temas/tema2/img2.png', alt='')
@@ -35,11 +35,8 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 2.1 Articulación con el Sistema Obligatorio de Garantía de la Calidad (SOGC)
     p El Subsistema Nacional de Calidad (SNC) y el Sistema Obligatorio de Garantía de la Calidad (SOGC) mantienen una relación complementaria que fortalece la calidad en la prestación de los servicios de salud. Mientras el SNC establece los lineamientos generales para promover la calidad, la evaluación de la conformidad, la acreditación y la metrología en los diferentes sectores del país, el SOGC aplica estos lineamientos al contexto específico del sector salud mediante mecanismos que favorecen el mejoramiento continuo de la atención.
-    .row.justify-content-center.mb-4
-      .col-lg-10
-        .p-3.cajon.color-secundario
-          p.mb-0 La interacción de estos componentes permite consolidar un sistema orientado al aseguramiento de la calidad y al fortalecimiento de la confianza en los procesos de evaluación. En el sector salud, este marco proporciona las bases para la implementación de mecanismos como el Sistema Obligatorio de Garantía de la Calidad (SOGC), el cual adapta estos principios a las particularidades de la prestación de los servicios de salud.
-    p Esta articulación permite que las instituciones prestadoras de servicios de salud desarrollen sus procesos conforme a estándares técnicos y normativos, promoviendo la seguridad del paciente, la eficiencia en la gestión y el cumplimiento de los requisitos establecidos por las autoridades competentes. De esta manera, el SNC proporciona las bases para la implementación de los componentes que integran el SOGC.
+    
+    p.mb-4 Esta articulación permite que las instituciones prestadoras de servicios de salud desarrollen sus procesos conforme a estándares técnicos y normativos, promoviendo la seguridad del paciente, la eficiencia en la gestión y el cumplimiento de los requisitos establecidos por las autoridades competentes. De esta manera, el SNC proporciona las bases para la implementación de los componentes que integran el SOGC.
     .tarjeta--container.row.justify-content-center.mb-4
       .col-lg-5.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
