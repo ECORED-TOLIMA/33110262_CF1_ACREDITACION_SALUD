@@ -159,7 +159,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA1_33110262_DU.pdf',
+        download: 'downloads/CF1_33110262_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -238,67 +238,67 @@ export default {
   referencias: [
     {
       referencia:
-        'Constitución Política de Colombia. (1991). Gaceta Constitucional No. 116 del 20 de julio de 1991.',
+        'Constitución Política de Colombia. (1991). <em>Gaceta Constitucional No. 116 del 20 de julio de 1991.</em>',
       link: 'https://www.constitucioncolombia.com/',
     },
     {
       referencia:
-        'Decreto 780 de 2016. (2016). Por medio del cual se expide el Decreto Único Reglamentario del Sector Salud y Protección Social.',
+        'Decreto 780 de 2016. (2016). <em>Por medio del cual se expide el Decreto Único Reglamentario del Sector Salud y Protección Social</em>.',
       link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77813',
     },
     {
       referencia:
-        'Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC). (s. f.). ICONTEC.',
+        'Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC). (s. f.). <em>ICONTEC</em>.',
       link: '',
     },
     {
       referencia:
-        'Ley 100 de 1993. (1993). Por la cual se crea el Sistema de Seguridad Social Integral y se dictan otras disposiciones.',
+        'Ley 100 de 1993. (1993). <em>Por la cual se crea el Sistema de Seguridad Social Integral y se dictan otras disposiciones</em>.',
       link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5248',
     },
     {
       referencia:
-        'Ley 1751 de 2015. (2015). Por medio de la cual se regula el derecho fundamental a la salud y se dictan otras disposiciones.',
+        'Ley 1751 de 2015. (2015). <em>Por medio de la cual se regula el derecho fundamental a la salud y se dictan otras disposiciones</em>.',
       link: 'http://www.secretariasenado.gov.co/senado/basedoc/ley_1751_2015.html',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). Programa de Auditoría para el Mejoramiento de la Calidad (PAMEC).',
+        'Ministerio de Salud y Protección Social. (s. f.). <em>Programa de Auditoría para el Mejoramiento de la Calidad (PAMEC)</em>.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). Sistema de Información para la Calidad (SIC).',
+        'Ministerio de Salud y Protección Social. (s. f.). <em>Sistema de Información para la Calidad (SIC)</em>.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). Sistema Obligatorio de Garantía de la Calidad (SOGC).',
+        'Ministerio de Salud y Protección Social. (s. f.). <em>Sistema Obligatorio de Garantía de la Calidad (SOGC)</em>.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). Sistema Único de Acreditación en Salud (SUA).',
+        'Ministerio de Salud y Protección Social. (s. f.). <em>Sistema Único de Acreditación en Salud (SUA)</em>.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). Sistema Único de Habilitación (SUH).',
+        'Ministerio de Salud y Protección Social. (s. f.). <em>Sistema Único de Habilitación (SUH)</em>.',
       link: '',
     },
     {
       referencia:
-        'Organismo Nacional de Acreditación de Colombia (ONAC). (s. f.). ONAC.',
+        'Organismo Nacional de Acreditación de Colombia (ONAC). (s. f.). <em>ONAC</em>.',
       link: '',
     },
     {
       referencia:
-        'Resolución 5095 de 2018. (2018). Por la cual se adopta el Manual de Acreditación en Salud Ambulatorio y Hospitalario de Colombia.',
+        'Resolución 5095 de 2018. (2018). <em>Por la cual se adopta el Manual de Acreditación en Salud Ambulatorio y Hospitalario de Colombia</em>.',
       link: 'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-5095-de-2018.pdf',
     },
     {
       referencia:
-        'Subsistema Nacional de Calidad. (s. f.). Subsistema Nacional de la Calidad.',
+        'Subsistema Nacional de Calidad. (s. f.). <em>Subsistema Nacional de la Calidad.</em>',
       link: '',
     },
   ],
@@ -349,7 +349,7 @@ export default {
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animador y productor audiovisual',
+          cargo: 'Animador y productor multimedia',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],

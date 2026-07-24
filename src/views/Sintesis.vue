@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Síntesis de los fundamentos normativos y estructurales de la acreditación en salud: normatividad vigente, Subsistema Nacional de Calidad, Sistema Obligatorio de Garantía de la Calidad, Sistema Único de Acreditación en Salud, estándares, procesos, herramientas y actores.")
+          img(src="@/assets/curso/sintesis.svg", alt="En la síntesis se presenta un mapa conceptual sobre los fundamentos normativos y estructurales de la acreditación en salud, organizado en cuatro ejes: normatividad de la acreditación en salud, Subsistema Nacional de Calidad (SNC), Sistema Obligatorio de Garantía de la Calidad (SOGC) y Sistema Único de Acreditación en Salud (SUA), con sus principales aspectos, componentes y relaciones.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

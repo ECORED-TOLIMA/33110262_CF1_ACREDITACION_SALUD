@@ -42,14 +42,14 @@
         .row.justify-content-center.mb-4
           .col-5
             figure
-              img(src='@/assets/curso/temas/tema2/img3.svg', alt='Texto que describa la imagen')          
+              img(src='@/assets/curso/temas/tema2/img3.svg', alt='')          
         h5.text-center El Subsistema Nacional de Calidad (SNC) 
         p.mb-5 Establece el marco general de la calidad en el país mediante la definición de políticas, lineamientos y mecanismos relacionados con la normalización, la evaluación de la conformidad, la acreditación y la metrología.
       .col-lg-5.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-5
             figure
-              img(src='@/assets/curso/temas/tema2/img4.svg', alt='Texto que describa la imagen')          
+              img(src='@/assets/curso/temas/tema2/img4.svg', alt='')          
         h5.text-center El Sistema Obligatorio de Garantía de la Calidad (SOGC)
         p.mb-5 Implementa estos lineamientos en el sector salud mediante sus componentes: el Sistema Único de Habilitación (SUH), el Programa de Auditoría para el Mejoramiento de la Calidad (PAMEC), el Sistema de Información para la Calidad (SIC) y el Sistema Único de Acreditación en Salud (SUA).
 
@@ -66,7 +66,7 @@
           .row.justify-content-center.mb-4
             .col-lg-auto.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema2/img6.svg', alt='Texto que describa la imagen')    
+                img(src='@/assets/curso/temas/tema2/img6.svg', alt='')    
             .col-lg-10
               p.mb-0 La gestión de la calidad en el sector salud no depende exclusivamente del Sistema Obligatorio de Garantía de la Calidad (SOGC). Su implementación se fortalece mediante la articulación con otras normas, modelos y sistemas de gestión que promueven la mejora continua, la estandarización de los procesos y el cumplimiento de requisitos técnicos aplicables a diferentes organizaciones.
           p En este contexto, las instituciones prestadoras de servicios de salud pueden integrar referentes nacionales e internacionales que contribuyen al fortalecimiento de sus procesos administrativos y asistenciales, favoreciendo una gestión más eficiente, segura y orientada a la satisfacción de las necesidades de las personas.
@@ -74,13 +74,13 @@
     .row.justify-content-center.mb-4
       .col-lg-6.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema2/img7.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/img7.png', alt='')
         .p-4.cajon.bg8
           h5 Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC)
           p Organismo Nacional de Normalización encargado de desarrollar normas técnicas que sirven como referente para diferentes sectores, incluido el sector salud.
       .col-lg-6
         figure
-          img(src='@/assets/curso/temas/tema2/img8.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/img8.png', alt='')
         .p-4.cajon.bg8
           h5 Organismo Nacional de Acreditación de Colombia (ONAC)
           p Entidad responsable de acreditar la competencia técnica de los organismos que realizan actividades de evaluación de la conformidad, garantizando la confiabilidad de sus resultados.

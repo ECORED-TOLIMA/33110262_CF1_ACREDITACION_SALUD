@@ -32,21 +32,21 @@
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta-avatar-b.mb-4.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema3/img3.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img3.svg' alt='')
           .tarjeta.bg4(style="display: flex !important;align-items: center !important;")
             .p-2
               p.text-bold.mb-0 Garantizar la calidad en la prestación de los servicios de salud.
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta-avatar-b.mb-4.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema3/img4.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img4.svg' alt='')
           .tarjeta.bg4(style="display: flex !important;align-items: center !important;")
             .p-2
               p.text-bold.mb-0 Promover la seguridad del paciente mediante la gestión de riesgos y la implementación de buenas prácticas.
       .col-lg-4
         .tarjeta-avatar-b.mb-4.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema3/img5.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img5.svg' alt='')
           .tarjeta.bg4(style="display: flex !important;align-items: center !important;")
             .p-2
               p.text-bold.mb-0 Fortalecer el mejoramiento continuo de los procesos asistenciales y administrativos.
@@ -55,21 +55,21 @@
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta-avatar-b.mb-4.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema3/img6.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img6.svg' alt='')
           .tarjeta.bg4(style="display: flex !important;align-items: center !important;")
             .p-2
               p.text-bold.mb-0 Verificar el cumplimiento de las condiciones y requisitos establecidos en la normatividad vigente.
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta-avatar-b.mb-4.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema3/img7.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img7.svg' alt='')
           .tarjeta.bg4(style="display: flex !important;align-items: center !important;")
             .p-2
               p.text-bold.mb-0 Favorecer la evaluación permanente del desempeño institucional.
       .col-lg-4
         .tarjeta-avatar-b.mb-4.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema3/img8.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img8.svg' alt='')
           .tarjeta.bg4(style="display: flex !important;align-items: center !important;")
             .p-2
               p.text-bold.mb-0 Contribuir al desarrollo de una cultura organizacional orientada a la calidad y la excelencia en la atención.
@@ -147,29 +147,29 @@
           .row.justify-content-center.mb-3
             .col-6
               figure
-                img(src='@/assets/curso/temas/tema3/img12.svg', alt='Texto que describa la imagen')
-          p.mb-5 Sistema Obligatorio de Garantía de la Calidad (SOGC)
+                img(src='@/assets/curso/temas/tema3/img12.svg', alt='')
+          p.mb-5.text-center Sistema Obligatorio de Garantía de la Calidad (SOGC)
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.color-acento-contenido.bg5.p-4
           .row.justify-content-center.mb-3
             .col-6
               figure
-                img(src='@/assets/curso/temas/tema3/img13.svg', alt='Texto que describa la imagen')
-          p.mb-5 Sistema Único de Acreditación en Salud (SUA)
+                img(src='@/assets/curso/temas/tema3/img13.svg', alt='')
+          p.mb-5.text-center Sistema Único de Acreditación en Salud (SUA)
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.color-acento-contenido.bg5.p-4
           .row.justify-content-center.mb-3
             .col-6
               figure
-                img(src='@/assets/curso/temas/tema3/img14.svg', alt='Texto que describa la imagen')
-          p.mb-5 Evaluación voluntaria frente a estándares de excelencia
+                img(src='@/assets/curso/temas/tema3/img14.svg', alt='')
+          p.mb-5.text-center Evaluación voluntaria frente a estándares de excelencia
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.color-acento-contenido.bg5.p-4
           .row.justify-content-center.mb-3
             .col-6
               figure
-                img(src='@/assets/curso/temas/tema3/img15.svg', alt='Texto que describa la imagen')
-          p.mb-5 Mejoramiento continuo de la calidad en los servicios de salud
+                img(src='@/assets/curso/temas/tema3/img15.svg', alt='')
+          p.mb-5.text-center Mejoramiento continuo de la calidad en los servicios de salud
 
     p.mb-0 La relación entre el SOGC y la acreditación en salud evidencia que ambos mecanismos contribuyen al fortalecimiento de la calidad en la prestación de los servicios, promoviendo procesos de evaluación, seguimiento y mejora continua que benefician a las instituciones, al talento humano y a las personas usuarias del sistema de salud.
 </template>

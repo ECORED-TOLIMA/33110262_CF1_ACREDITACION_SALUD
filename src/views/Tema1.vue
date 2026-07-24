@@ -16,7 +16,7 @@
         p.mb-0 En Colombia, el proceso de acreditación se desarrolla dentro de un marco normativo que articula diferentes disposiciones relacionadas con la gestión de la calidad, la evaluación institucional y el mejoramiento continuo. Estas normas proporcionan las bases para la implementación de procesos estandarizados que permiten valorar el desempeño de las instituciones prestadoras de servicios de salud y orientar la adopción de acciones encaminadas al fortalecimiento de sus capacidades organizacionales.
     .row.justify-content-center.mb-4
       .col-lg-1.d-none.d-lg-block
-        img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imagen ilustrativa')
+        img(src='@/assets/curso/temas/tema1/img2.svg', alt='')
       .col-lg-11
         .p-2.bg1
           p.mb-0 El conocimiento de este marco normativo facilita la comprensión de la estructura del Sistema Único de Acreditación en Salud (SUA), así como de los criterios y estándares que orientan los procesos de evaluación. Además, favorece la apropiación de buenas prácticas institucionales y el desarrollo de una cultura organizacional enfocada en la calidad, la transparencia y el mejoramiento continuo.
@@ -31,7 +31,7 @@
           p.mb-0 En Colombia, la normatividad en materia de acreditación ha evolucionado con el propósito de fortalecer la calidad de los servicios y responder a las necesidades de la población. Este marco jurídico define las condiciones para la evaluación de las instituciones prestadoras de servicios de salud, establece los estándares que orientan los procesos de mejoramiento continuo y determina las funciones de las entidades encargadas de evaluar y reconocer el cumplimiento de dichos estándares.
         p El conocimiento de este marco normativo permite comprender cómo se articulan las diferentes disposiciones legales para garantizar la prestación de servicios de salud con calidad, seguridad, oportunidad y enfoque centrado en las personas.
       .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
-        img(src='@/assets/curso/temas/tema1/img3.png', alt='Imagen ilustrativa')
+        img(src='@/assets/curso/temas/tema1/img3.png', alt='')
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
         .titulo-sexto.color-acento-contenido
@@ -66,7 +66,7 @@
           p.mb-0 La normatividad en salud puede actualizarse mediante nuevas disposiciones expedidas por las autoridades competentes. Por ello, es importante consultar las versiones vigentes de las normas aplicables al momento de implementar procesos de acreditación.
     .row.justify-content-center
       .col-lg-3.col-8.mb-4.mb-lg-0
-        img(src='@/assets/curso/temas/tema1/img4.svg', alt='Imagen ilustrativa')
+        img(src='@/assets/curso/temas/tema1/img4.svg', alt='')
       .col-lg-7
         p La articulación entre estas disposiciones consolida el marco jurídico que orienta la implementación de procesos de evaluación y mejoramiento continuo en las instituciones prestadoras de servicios de salud. A partir de estas normas se establecen los lineamientos que las organizaciones deben prestar atención para fortalecer la calidad de los servicios y avanzar hacia el cumplimiento de los estándares de acreditación.
         p.mb-0 En este contexto, resulta pertinente conocer las principales disposiciones que regulan la organización y el funcionamiento del sector salud, así como su incidencia en los procesos de acreditación.
@@ -78,11 +78,11 @@
     .bg3
       .row.mb-4
         .col-lg-5
-          img(src='@/assets/curso/temas/tema1/img5.png', alt='Imagen ilustrativa')
+          img(src='@/assets/curso/temas/tema1/img5.png', alt='')
         .col-lg-5.p-4
           .row.mb-3
             .col-lg-2.col-6.d-none.d-lg-block
-              img(src='@/assets/curso/temas/tema1/img6.svg', alt='Imagen ilustrativa')
+              img(src='@/assets/curso/temas/tema1/img6.svg', alt='')
           p.mb-0 En el ámbito de la acreditación en salud, las disposiciones normativas permiten establecer criterios para la evaluación del desempeño institucional, definir estándares de calidad y orientar la implementación de procesos encaminados al fortalecimiento de la seguridad del paciente y la satisfacción de los usuarios. Asimismo, proporcionan el marco de referencia para la formulación de políticas, procedimientos y acciones de mejora en las instituciones prestadoras de servicios de salud.
           
     p.mb-4 Las principales disposiciones que orientan la organización del sistema de salud y los procesos de acreditación en Colombia son las siguientes:
@@ -130,38 +130,38 @@
       .row.justify-content-center.align-items-center
         .col-lg-4.d-none.d-lg-block
           figure(data-aos="zoom-in")
-            img(src="@/assets/curso/temas/tema1/img10.png", alt="alt").img400.m-auto
+            img(src="@/assets/curso/temas/tema1/img10.png", alt="").img400.m-auto
         .col-lg-8.p-4
           SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-4")
             .tarjeta.bg7.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema1/img11.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img11.svg", alt="").img100.m-auto
               p.text-center.mb-0 Garantizar la prestación de servicios conforme a la legislación vigente.
             .tarjeta.bg7.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema1/img12.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img12.svg", alt="").img100.m-auto
               p.text-center.mb-0 Fortalecer la seguridad del paciente y la calidad de la atención.
             .tarjeta.bg7.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema1/img13.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img13.svg", alt="").img100.m-auto
               p.text-center.mb-0 Favorecer el cumplimiento de los estándares de acreditación en salud.
             .tarjeta.bg7.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema1/img14.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img14.svg", alt="").img100.m-auto
               p.text-center.mb-0 Promover la gestión del riesgo y el mejoramiento continuo de los procesos.
             .tarjeta.bg7.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema1/img15.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img15.svg", alt="").img100.m-auto
               p.text-center.mb-0 Incrementar la confianza de los usuarios y demás grupos de interés.
             .tarjeta.bg7.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema1/img16.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img16.svg", alt="").img100.m-auto
               p.text-center.mb-0 Fortalecer la toma de decisiones basada en criterios técnicos y normativos.
     .row.justify-content-center.align-items-center
       .col-lg-10

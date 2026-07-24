@@ -81,38 +81,38 @@
       .row.justify-content-center
         .col-lg-4.d-none.d-lg-block
           figure(data-aos="zoom-in")
-            img(src="@/assets/curso/temas/tema4/img7.png", alt="alt").img400.m-auto
+            img(src="@/assets/curso/temas/tema4/img7.png", alt="").img400.m-auto
         .col-lg-8.p-4
           SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-4")
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img8.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img8.svg", alt="").img100.m-auto
               p.text-center.mb-5 Autoevaluación institucional
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img9.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img9.svg", alt="").img100.m-auto
               p.text-center.mb-0 Implementación de acciones de mejoramiento
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img10.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img10.svg", alt="").img100.m-auto
               p.text-center.mb-0 Solicitud de acreditación
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img11.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img11.svg", alt="").img100.m-auto
               p.text-center.mb-0 Evaluación externa
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img12.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img12.svg", alt="").img100.m-auto
               p.text-center.mb-0 Otorgamiento de la acreditación
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img13.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img13.svg", alt="").img100.m-auto
               p.text-center.mb-0 Seguimiento y mejoramiento continuo
             
     p.mb-0 Cada una de estas etapas contribuye al fortalecimiento de la calidad institucional y permite consolidar procesos orientados a la seguridad del paciente, la excelencia en la atención y el mejoramiento continuo. Asimismo, favorece la identificación de oportunidades de mejora y la implementación de acciones que promueven el cumplimiento de los estándares establecidos para la acreditación.
@@ -169,38 +169,38 @@
       .row.justify-content-center
         .col-lg-4.d-none.d-lg-block
           figure(data-aos="zoom-in")
-            img(src="@/assets/curso/temas/tema4/img15.png", alt="alt").img400.m-auto
+            img(src="@/assets/curso/temas/tema4/img15.png", alt="").img400.m-auto
         .col-lg-8.p-4
           SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-6")
             .tarjeta.bg7.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src="@/assets/curso/temas/tema4/img16.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img16.svg", alt="").img100.m-auto
               p.text-center.mb-5 Planificación de las actividades relacionadas con la acreditación.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src="@/assets/curso/temas/tema4/img17.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img17.svg", alt="").img100.m-auto
               p.text-center.mb-0 Autoevaluación institucional frente a los estándares establecidos.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src="@/assets/curso/temas/tema4/img18.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img18.svg", alt="").img100.m-auto
               p.text-center.mb-0 Elaboración e implementación de planes de mejoramiento.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src="@/assets/curso/temas/tema4/img19.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img19.svg", alt="").img100.m-auto
               p.text-center.mb-0 Seguimiento y evaluación de los resultados obtenidos.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src="@/assets/curso/temas/tema4/img20.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img20.svg", alt="").img100.m-auto
               p.text-center.mb-0 Preparación para la evaluación externa.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src="@/assets/curso/temas/tema4/img21.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img21.svg", alt="").img100.m-auto
               p.text-center.mb-0 Implementación de acciones de mejora continua.
             
     p La implementación organizada de estos procesos y procedimientos fortalece la capacidad institucional para responder a los estándares de acreditación, favoreciendo la gestión de la calidad, la seguridad del paciente y la consolidación de una cultura de mejoramiento continuo.
@@ -243,43 +243,43 @@
       .row.justify-content-center
         .col-lg-4.d-none.d-lg-block
           figure(data-aos="zoom-in")
-            img(src="@/assets/curso/temas/tema4/img22.png", alt="alt").img400.m-auto
+            img(src="@/assets/curso/temas/tema4/img22.png", alt="").img400.m-auto
         .col-lg-8.p-4
           SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-4")
             .tarjeta.bg7.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img23.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img23.svg", alt="").img100.m-auto
               p.text-center.mb-5 Autoevaluaciones institucionales.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img24.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img24.svg", alt="").img100.m-auto
               p.text-center.mb-0 Listas de verificación.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img25.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img25.svg", alt="").img100.m-auto
               p.text-center.mb-0 Indicadores de calidad.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img26.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img26.svg", alt="").img100.m-auto
               p.text-center.mb-0 Auditorías internas.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img27.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img27.svg", alt="").img100.m-auto
               p.text-center.mb-0 Planes de mejoramiento.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img28.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img28.svg", alt="").img100.m-auto
               p.text-center.mb-0 Matrices de seguimiento.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src="@/assets/curso/temas/tema4/img28-2.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema4/img28-2.svg", alt="").img100.m-auto
               p.text-center.mb-0 Registros e informes de evaluación.
             
     p.mb-4 La aplicación adecuada de estas herramientas permite a las instituciones realizar un seguimiento permanente a sus procesos, identificar fortalezas y oportunidades de mejora, y demostrar el cumplimiento de los estándares de acreditación mediante evidencias objetivas y verificables.
