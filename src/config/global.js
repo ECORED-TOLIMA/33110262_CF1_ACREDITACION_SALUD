@@ -328,7 +328,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Viviana Herrera Quiñonez',
+          nombre: 'Viviana Esperanza Herrera Quiñonez ',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -339,7 +339,7 @@ export default {
       autores: [
         {
           nombre: 'Jose Yobani Penagos Mora ',
-          cargo: 'Diseñador de contenidos',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -359,7 +359,7 @@ export default {
       autores: [
         {
           nombre: 'María Fernanda Pineda Mora',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -367,6 +367,7 @@ export default {
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
+
       ],
     },
   ],
